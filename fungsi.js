@@ -1,8 +1,3 @@
-console.log("fungsi Pertama");
-console.log("fungsi kedua");
-console.log("fungsi ketiga");
-console.log("makan Pertama");
-
 const penjumlahan = (a, b) => {
   return parseInt(a + b);
 };
@@ -20,3 +15,9 @@ const perkalian = (a, b) => {
 };
 
 console.log(perkalian(10, 10));
+
+const bagi = (a, b) => {
+  return a / b;
+};
+
+console.log(bagi(4, 2));
