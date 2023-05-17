@@ -16,3 +16,4 @@ function tambah(a, b) {
 console.log(tambah(1, 4));
 
 document.writeln("okeee");
+document.writeln("okeee");
