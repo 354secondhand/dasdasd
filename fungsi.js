@@ -15,5 +15,8 @@ function tambah(a, b) {
 
 console.log(tambah(1, 4));
 
-document.writeln("okeee");
-document.writeln("okeee");
+const perkalian = (a, b) => {
+  return a * b;
+};
+
+console.log(perkalian(10, 10));
